@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Java build artifacts
+*.class
+
+# ReactJS build artifacts
+node_modules/
